@@ -26,8 +26,8 @@ eureka:
 rabbitmq:
   host: localhost
   port: 5672
-  username: admin
-  password: admin
+  username: guest
+  password: guest
 
 
 ##rabbitmq相关配置,暴露bus刷新配置的端点
